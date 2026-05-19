@@ -12,6 +12,8 @@
 
 This lesson introduces the various data encoding formats and modes of data flow. You will be able to encode and decode data in various formats and exchange data via RPC.
 
+[Click here for the overview](https://su-ntu-ctp.github.io/5m-data-2.3-data-encoding-creation-flow/)
+
 ---
 
 ## Part 1 - Data Encoding Formats
@@ -27,10 +29,10 @@ This lesson introduces the various data encoding formats and modes of data flow.
 <!-- We will be using the following notebooks `notebooks/encoding_flow_lesson.ipynb` notebook throughout this lesson. -->
 We will be using the following notebooks for each section in this lesson:
 
-- 2.1. Apache Thrift - [`demo_thrift.ipynb`](notebooks/demo_thrift.ipynb)
-- 2.2. Protocol Buffers (Protobufs) - [`demo_protobuf.ipynb`](notebooks/demo_protobuf.ipynb)
-- 2.3. Apache Avro - [`demo_avro.ipynb`](notebooks/demo_avro.ipynb)
-- 2.4. Apache Parquet, ORC and Arrow - [`demo_parquet_orc_arrow.ipynb`](notebooks/demo_parquet_orc_arrow.ipynb)
+- 2.1. Apache Thrift - [`new_demo_1_thrift.ipynb`](notebooks/new_demo_1_thrift.ipynb)
+- 2.2. Protocol Buffers (Protobufs) - [`new_demo_2_protobuf.ipynb`](notebooks/new_demo_2_protobuf.ipynb)
+- 2.3. Apache Avro - [`new_demo_3_avro.ipynb`](notebooks/new_demo_3_avro.ipynb)
+- 2.4. Apache Parquet, ORC and Arrow - [`new_demo_4_parquet_orc_arrow.ipynb`](notebooks/new_demo_4_parquet_orc_arrow.ipynb)
 
 Open the notebook in VSCode by double clicking on the file. Then select `bde` conda environment for the kernel.
 
